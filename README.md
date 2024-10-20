@@ -2,14 +2,14 @@
 *Artist: @Cronosart99*
 
 ## Final Fantasy 7 PS1 Disc CSR Patches
-Created by IndividualContributor
-
-## Contributors:
-- Okamikaze
-- AwesomeWaves
 
 All "skill checks" remain in this CSR, if not let me know and I'll fix it. A skill check is any action a player must perform in game, e.g. choosing an option in dialogues, skips, manipulating RNG, etc. Most FMVs are removed, some cutscenes are shorter, and long mashing sequences have been reduced.
 
+Created by IndividualContributor
+
+## Contributors
+- Okamikaze
+- AwesomeWaves
 
 ## Steps
 
