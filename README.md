@@ -10,6 +10,9 @@ Category | Status
 any%     | 🔄    
 100%     | 🔄    
 
+🔄 Work in Progress  
+🟢 Done
+
 These patches can be applied to the following platforms
 
 - Playstation 1 and 2 (PSX Disc)
