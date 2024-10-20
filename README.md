@@ -1,7 +1,7 @@
 ![](image.png)
 *Artist: @Cronosart99*
 
-## Final Fantasy 7 CSR Patches
+## Final Fantasy 7 PSX CSR Patches
 
 Works with the following categories including variants, e.g. No Major Skips, Glitchless, Slots, All Bosses etc.
 
@@ -17,11 +17,10 @@ These patches can be applied to the following platforms
 
 - Playstation 1 and 2 (PSX Disc)
 - Emulator (Digital)
-- PC
 
-## Final Fantasy 7 CSR Patches
+## Definition
 
-All "skill checks" remain in this CSR, if not let me know and I'll fix it. A skill check is any action a player must perform in game, e.g. choosing an option in dialogues, movement in cutscenes, skips, manipulating RNG, etc. Most FMVs are removed, some cutscenes are shorter, and long mashing sequences have been reduced.
+All "skill checks" remain in this CSR (if not let me know and I'll fix it). A skill check is any action a player must perform in game, e.g. choosing an option in dialogues, movement in cutscenes, skips, manipulating RNG, etc. Most FMVs are removed, some cutscenes are shorter, and long mashing sequences have been reduced. This CSR is exactly like a non-CSR run, just shorter.
 
 ## Contributors
 - IndividualContributor
